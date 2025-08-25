@@ -41,4 +41,4 @@ The dashboard provides insights into *sales trends, customer behavior, product p
 
 ## DASHBOARD PREVIEWS
 
- ![COFFECAFE]()
+ ![COFFECAFE](https://github.com/kaushikmanish34/COFFEE-CAFE-DASHBOARD/blob/main/Coffee%20CAFE.png)
